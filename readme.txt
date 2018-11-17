@@ -1,1 +1,2 @@
-Git si a version control system
+gut is a verdion contrlo system
+git si free sofware
