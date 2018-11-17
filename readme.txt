@@ -1,2 +1,2 @@
-gut is a verdion contrlo system
+gut is a distributed version contrlo system
 git si free sofware
